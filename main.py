@@ -14,6 +14,7 @@ def get_user_inputs():
     """
     Collects and returns user inputs.
     """
+    
     print("Welcome to the Bench Press Progression Planner!\n")
     print("Please provide the following information to generate your training plan.\n")
     print("Note: All weights are in pounds (lbs) and should be rounded to the nearest 2.5 lbs.\n")
